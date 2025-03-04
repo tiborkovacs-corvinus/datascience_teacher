@@ -3,7 +3,7 @@
     "path": "S:/datascience_teacher/UntitledQMD.qmd",
     "project_path": "UntitledQMD.qmd",
     "type": "quarto_markdown",
-    "hash": "130890425",
+    "hash": "2081741393",
     "contents": "",
     "dirty": false,
     "created": 1741095496865.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "0,25",
+        "cursorPosition": "3,25",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1741095518,
+    "lastKnownWriteTime": 1741096056,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1741095517821,
+    "last_content_update": 1741096055337,
     "read_only": false,
     "read_only_alternatives": []
 }
